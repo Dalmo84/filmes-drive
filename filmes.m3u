@@ -1,15 +1,22 @@
 #EXTM3U
-#EXTINF:-1,01 - Loucademia de Policia
+
+#EXTINF:-1 tvg-name="Loucademia de Policia 1" tvg-logo="https://archive.org/services/img/loucademia.de.-policia.redetoons" group-title="Filmes",Loucademia de Policia 1
 https://archive.org/download/loucademia.de.-policia.redetoons/Loucademia.de.Policia.redetoons.mp4
-#EXTINF:-1,02 - Loucademia de Policia 2
+
+#EXTINF:-1 tvg-name="Loucademia de Policia 2" tvg-logo="https://archive.org/services/img/loucademia.de.-policia.-2.-a.-primeira.-missao.redetoons" group-title="Filmes",Loucademia de Policia 2
 https://archive.org/download/loucademia.de.-policia.-2.-a.-primeira.-missao.redetoons/Loucademia.de.Policia.2.A.Primeira.Missao.redetoons.mp4
-#EXTINF:-1,03 - Loucademia de Policia 3
+
+#EXTINF:-1 tvg-name="Loucademia de Policia 3" tvg-logo="https://archive.org/services/img/loucademia.de.-policia.-3.-de.-volta.ao.-treinamento.redetoons" group-title="Filmes",Loucademia de Policia 3
 https://archive.org/download/loucademia.de.-policia.-3.-de.-volta.ao.-treinamento.redetoons/Loucademia.de.Policia.3.De.Volta.ao.Treinamento.redetoons.mp4
-#EXTINF:-1,04 - Loucademia de Policia 4
+
+#EXTINF:-1 tvg-name="Loucademia de Policia 4" tvg-logo="https://archive.org/services/img/loucademia.de.-policia.-4.-o.-cidadao.se.-defende.redetoons" group-title="Filmes",Loucademia de Policia 4
 https://archive.org/download/loucademia.de.-policia.-4.-o.-cidadao.se.-defende.redetoons/Loucademia.de.Policia.4.O.Cidadao.se.Defende.redetoons.mp4
-#EXTINF:-1,05 - Loucademia de Policia 5
+
+#EXTINF:-1 tvg-name="Loucademia de Policia 5" tvg-logo="https://archive.org/services/img/loucademia.de.-policia.-5.-missao.-miami.-beach.redetoons" group-title="Filmes",Loucademia de Policia 5
 https://archive.org/download/loucademia.de.-policia.-5.-missao.-miami.-beach.redetoons/Loucademia.de.Policia.5.Missao.Miami.Beach.redetoons.mp4
-#EXTINF:-1,06 - Loucademia de Policia 6
+
+#EXTINF:-1 tvg-name="Loucademia de Policia 6" tvg-logo="https://archive.org/services/img/loucademia.de.-policia.-6.-cidade.em.-estado.de.-sitio.redetoons" group-title="Filmes",Loucademia de Policia 6
 https://archive.org/download/loucademia.de.-policia.-6.-cidade.em.-estado.de.-sitio.redetoons/Loucademia.de.Policia.6.Cidade.em.Estado.de.Sitio.redetoons.mp4
-#EXTINF:-1,07 - Loucademia de Policia 7
+
+#EXTINF:-1 tvg-name="Loucademia de Policia 7" tvg-logo="https://archive.org/services/img/loucademia.de.-policia.-7.-missao.-moscou.redetoons" group-title="Filmes",Loucademia de Policia 7
 https://archive.org/download/loucademia.de.-policia.-7.-missao.-moscou.redetoons/Loucademia.de.Policia.7.Missao.Moscou.redetoons.mp4
